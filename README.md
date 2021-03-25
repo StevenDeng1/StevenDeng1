@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @StevenDeng1
+- 👀 I’m interested in Development
+- 🙈 I’m currently learning CS
+- 🥵 I’m looking to collaborate on cool stuff
+- 🥶 How to reach me stdeng@ucsd.edu
